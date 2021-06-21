@@ -1,1 +1,9 @@
-
+{
+  {
+    "firstname": "string",
+    "lastname": "string",
+    "useremail": "string",
+    "country": "string",
+    "address": "string"
+  }
+}
